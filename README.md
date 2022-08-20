@@ -1,7 +1,7 @@
 - 👋 Hi, I'm William guzman
 - 👀 I’m interested in programación web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .net core
+- 💞️ I’m looking to collaborate on java,spring core
 - 📫 How to reach me ...
 
 <!---
